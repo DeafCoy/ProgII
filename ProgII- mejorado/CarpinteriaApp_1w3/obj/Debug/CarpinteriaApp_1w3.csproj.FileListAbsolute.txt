@@ -1,0 +1,11 @@
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp_1w3\bin\Debug\CarpinteriaApp_1w3.exe.config
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp_1w3\bin\Debug\CarpinteriaApp_1w3.exe
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp_1w3\bin\Debug\CarpinteriaApp_1w3.pdb
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp_1w3\obj\Debug\CarpinteriaApp_1w3.csproj.AssemblyReference.cache
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp_1w3\obj\Debug\CarpinteriaApp_1w3.csproj.SuggestedBindingRedirects.cache
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp_1w3\obj\Debug\CarpinteriaApp_1w3.Presentacion.FrmNuevoPresupuesto.resources
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp_1w3\obj\Debug\CarpinteriaApp_1w3.Properties.Resources.resources
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp_1w3\obj\Debug\CarpinteriaApp_1w3.csproj.GenerateResource.cache
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp_1w3\obj\Debug\CarpinteriaApp_1w3.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp_1w3\obj\Debug\CarpinteriaApp_1w3.exe
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp_1w3\obj\Debug\CarpinteriaApp_1w3.pdb
