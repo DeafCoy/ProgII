@@ -1,0 +1,10 @@
+C:\Users\Octa\source\repos\PruebaParcial\PruebaParcial\bin\Debug\PruebaParcial.exe.config
+C:\Users\Octa\source\repos\PruebaParcial\PruebaParcial\bin\Debug\PruebaParcial.exe
+C:\Users\Octa\source\repos\PruebaParcial\PruebaParcial\bin\Debug\PruebaParcial.pdb
+C:\Users\Octa\source\repos\PruebaParcial\PruebaParcial\obj\Debug\PruebaParcial.csproj.AssemblyReference.cache
+C:\Users\Octa\source\repos\PruebaParcial\PruebaParcial\obj\Debug\PruebaParcial.FrmNuevaOrden.resources
+C:\Users\Octa\source\repos\PruebaParcial\PruebaParcial\obj\Debug\PruebaParcial.Properties.Resources.resources
+C:\Users\Octa\source\repos\PruebaParcial\PruebaParcial\obj\Debug\PruebaParcial.csproj.GenerateResource.cache
+C:\Users\Octa\source\repos\PruebaParcial\PruebaParcial\obj\Debug\PruebaParcial.csproj.CoreCompileInputs.cache
+C:\Users\Octa\source\repos\PruebaParcial\PruebaParcial\obj\Debug\PruebaParcial.exe
+C:\Users\Octa\source\repos\PruebaParcial\PruebaParcial\obj\Debug\PruebaParcial.pdb
